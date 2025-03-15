@@ -8,6 +8,7 @@ body {
   font-weight: 400;
   /* Replace with your desired weight */
   font-style: normal;
+  min-width: 500px;
 }
 
 :root {
